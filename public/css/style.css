@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar-dark{
+    background-color: rgb(0, 0, 0);
+}
+.register-btn{
+    background-color: #6DDF9C;
+}
+.register-btn:hover{
+    color: white;
+    cursor: pointer;
+}
+.navbar-brand{
+    width: 10%;
+}
+.hero-back{
+    background-image: url('https://images01.nicepagecdn.com/c461c07a441a5d220e8feb1a/9619e45fd63456f58dd876ad/fd-min.jpg');
+    height: auto;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.hero-text{
+    
+}
