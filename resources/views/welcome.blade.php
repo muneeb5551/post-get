@@ -573,7 +573,7 @@
                             <span class="font-weight-normal">+</span>
                         </div>
                         <!-- Milstone label -->
-                        <span class="d-block h6 text-capitalize ">Built-in Components</span>
+                        <span class="d-block h6 text-capitalize text-white">Built-in Components</span>
                     </div>
                     <div class="col-lg-3 col-6 mb-5 mb-lg-0 text-center">
                         <!-- Icon -->
@@ -587,7 +587,7 @@
                             <span class="font-weight-normal">+</span>
                         </div>
                         <!-- Milstone label -->
-                        <span class="d-block h6 text-capitalize">Layout &amp; Pages</span>
+                        <span class="d-block h6 text-capitalize text-white">Layout &amp; Pages</span>
                     </div>
                 </div>
             </div>
@@ -645,107 +645,6 @@
             </div>
         </section>
 
-
-
-       
-        <div class="pt-24 pb-40 bg-black">
-            <div class="container max-w-screen-xl">
-                
-                <div class="row g-7">
-                    <div class="col-xl-3 col-lg-4 col-sm-6">
-                        <div class="card border-0 bg-success">
-                            <div class="card-body p-10 text-center">
-                                <div class="img-fluid mb-4 w-1/2 mx-auto">
-                                    <img src="https://preview.webpixels.io/web/img/other/clients/full/slack.svg"
-                                        alt="..." />
-                                </div>
-                                <!-- Rating -->
-                                <span class="static-rating d-block my-4">
-                                    <i class="bi bi-star-fill text-warning"></i>
-                                    <i class="bi bi-star-fill text-warning"></i>
-                                    <i class="bi bi-star-fill text-warning"></i>
-                                    <i class="bi bi-star-fill text-warning"></i>
-                                    <i class="bi bi-star text-warning" class="star"></i>
-                                </span>
-                                <!-- Info -->
-                                <h5 class="h6 mb-1 text-white">4.95 out of 5 stars</h5>
-                                <p class="text-white text-sm mb-0">
-                                    from 23 reviews
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-4 col-sm-6">
-                        <div class="card border-0 bg-success">
-                            <div class="card-body p-10 text-center">
-                                <div class="img-fluid mb-4 w-1/2 mx-auto">
-                                    <img src="https://preview.webpixels.io/web/img/other/clients/full/amazon.svg"
-                                        alt="..." />
-                                </div>
-                                <!-- Rating -->
-                                <span class="static-rating d-block my-4">
-                                    <i class="bi bi-star-fill text-warning"></i>
-                                    <i class="bi bi-star-fill text-warning"></i>
-                                    <i class="bi bi-star-fill text-warning"></i>
-                                    <i class="bi bi-star-fill text-warning"></i>
-                                    <i class="bi bi-star text-warning" class="star"></i>
-                                </span>
-                                <!-- Info -->
-                                <h5 class="h6 mb-1 text-white">4.95 out of 5 stars</h5>
-                                <p class="text-white text-sm mb-0">
-                                    from 23 reviews
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-4 col-sm-6">
-                        <div class="card border-0 bg-success">
-                            <div class="card-body p-10 text-center">
-                                <div class="img-fluid mb-4 w-1/2 mx-auto">
-                                    <img src="https://preview.webpixels.io/web/img/other/clients/full/airbnb.svg"
-                                        alt="..." />
-                                </div>
-                                <!-- Rating -->
-                                <span class="static-rating d-block my-4">
-                                    <i class="bi bi-star-fill text-warning"></i>
-                                    <i class="bi bi-star-fill text-warning"></i>
-                                    <i class="bi bi-star-fill text-warning"></i>
-                                    <i class="bi bi-star-fill text-warning"></i>
-                                    <i class="bi bi-star text-warning" class="star"></i>
-                                </span>
-                                <!-- Info -->
-                                <h5 class="h6 mb-1 text-white">4.95 out of 5 stars</h5>
-                                <p class="text-white text-sm mb-0">
-                                    from 23 reviews
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-4 col-sm-6">
-                        <div class="card border-0 bg-success">
-                            <div class="card-body p-10 text-center">
-                                <div class="img-fluid mb-4 w-1/2 mx-auto">
-                                    <img src="https://preview.webpixels.io/web/img/other/clients/full/spotify.svg"
-                                        alt="..." />
-                                </div>
-                                <!-- Rating -->
-                                <span class="static-rating d-block my-4">
-                                    <i class="bi bi-star-fill text-warning"></i>
-                                    <i class="bi bi-star-fill text-warning"></i>
-                                    <i class="bi bi-star-fill text-warning"></i>
-                                    <i class="bi bi-star-fill text-warning"></i>
-                                    <i class="bi bi-star text-warning" class="star"></i>
-                                </span>
-                                <!-- Info -->
-                                <h5 class="h6 mb-1 text-white">4.95 out of 5 stars</h5>
-                                <p class="text-white text-sm mb-0">
-                                    from 23 reviews
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+<x-contactus />
     </div>
 @endsection
