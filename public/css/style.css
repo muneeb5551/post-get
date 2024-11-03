@@ -604,7 +604,7 @@ font-size: 14px;
 line-height: 28px;
 }
 .footer-social-icon span {
-color: #fff;
+color: #006d66;
 display: block;
 font-size: 20px;
 font-weight: 700;
@@ -622,6 +622,7 @@ width: 40px;
 text-align: center;
 line-height: 38px;
 border-radius: 50%;
+
 }
 .facebook-bg{
 background: #3B5998;
@@ -630,7 +631,7 @@ background: #3B5998;
 background: #55ACEE;
 }
 .google-bg{
-background: #DD4B39;
+background: #6ddf9c;
 }
 .footer-widget-heading h3 {
 color: #fff;
@@ -672,6 +673,9 @@ background: #2E2E2E;
 border: 1px solid #2E2E2E;
 color: #fff;
 }
+.subscribe-form input:focus{
+  outline: none;
+}
 .subscribe-form button {
   position: absolute;
   right: 0;
@@ -695,14 +699,14 @@ font-size: 14px;
 color: #878787;
 }
 .copyright-text p a{
-color: #ff5e14;
+color: #6ddf9c;
 }
 .footer-menu li {
 display: inline-block;
 margin-left: 20px;
 }
 .footer-menu li:hover a{
-color: #ff5e14;
+color: #6ddf9c;
 }
 .footer-menu li a {
 font-size: 14px;
