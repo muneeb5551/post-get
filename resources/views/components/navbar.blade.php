@@ -15,7 +15,7 @@
             <!-- Nav -->
             <ul class="navbar-nav mx-lg-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="/">Home</a>
+                    <a class="nav-link active" href="/">Home</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="/traking">Tracking</a>
